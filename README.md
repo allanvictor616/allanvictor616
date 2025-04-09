@@ -1,4 +1,4 @@
-- 👋 Olá! Sou o Allan Victor @allanvictor616, tenho 24 anos e atualmente estudante de Analise e Desenvolvimento de Sistemas na faculdade Uninove.
+- 👋 Olá! Sou o Allan Victor @allanvictor616, tenho 25 anos e atualmente estudante de Analise e Desenvolvimento de Sistemas na faculdade Uninove.
 - 👀 Estou interessado em aprender e desenvolver códigos pessoais para estudo e empresariais.
 - 🌱 Atualmente estou aprendendo C#, SQL, PHP, Front-end HTML, CSS, JavaScript e Java.
 - 💞️ Estou procurando colaborar com qualquer pessoa que esteja interessado em meu desenvolvimento.
